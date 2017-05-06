@@ -65,7 +65,7 @@ public class TestMain {
 	 * Arguments		: BinarySearchTree
 	 * Preconditions	: BinarySearchTree is initiated
 	 * Results			: display pre in and post order traversal for tree
-	 ********************************************************************/
+	 **********************************************************************/
 	public static void displayResults(BinarySearchTree temp){
 		System.out.print("Pre-order: "); temp.preOrder();
 		System.out.println();

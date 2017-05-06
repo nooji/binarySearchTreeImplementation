@@ -3,12 +3,12 @@ package cs241.project1;
 public class BinarySearchTree {
 
 	private Node root;
-	/*********************************************************************
+	/**********************************************************************
 	 * Name				: BinarySearchTree()
 	 * Arguments		: none
 	 * Preconditions	: none
 	 * Results			: default constructor that sets root node to null
-	 ********************************************************************/
+	 *********************************************************************/
 	public BinarySearchTree(){
 		root = null;
 	}
